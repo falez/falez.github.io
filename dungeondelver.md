@@ -13,7 +13,6 @@ This project was my final year project. I chose to create a game for Android bec
 ## About Dungeon Delver
 <hr class="h2line">
 Dungeon Delver is an "isometric-view" Action RPG for Android tablet made with Unity 3.5. The player character is a warrior in a dungeon filled with skeletons and demons. The dungeon is composed of three levels, each with its own challenge.
-<br><br>
 
 ##Player
 <hr class="h2line">

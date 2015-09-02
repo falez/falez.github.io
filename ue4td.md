@@ -4,7 +4,7 @@ title: Multiplayer Top-down prototype
 permalink: /portfolio/ue4td/index.html
 ---
 
-![UE4 Top Down](/public/images/ue4td.png)
+![UE4 Top Down](/public/images/ue4td2.png)
 
 A work-in-progress prototype of multiplayer supported top-down shooter in Unreal Engine 4. Replication of movement, aim direction, shooting and reloading works.
 

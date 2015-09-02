@@ -81,7 +81,7 @@ a:focus {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
+  margin-bottom: 0rem;
   font-weight: bold;
   line-height: 1.25;
   color: #313131;
@@ -130,6 +130,7 @@ dd {
 
 .h2line {
   margin: 0 0 0.5rem;
+  border-top: 1px solid #d28445;
 }
 
 /* Misc */
@@ -234,7 +235,7 @@ blockquote p:last-child {
 
 img {
   max-width: 100%;
-  margin: 0.5rem 0 0rem;
+  margin: 0.0rem 0 0rem;
   border-radius: 5px;
 }
 
