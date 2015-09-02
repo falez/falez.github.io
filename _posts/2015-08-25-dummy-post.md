@@ -1,16 +1,8 @@
 ---
 layout: post
-title: A Dummy Post
+title: Hello
 ---
 
-A dummy content.
+This is a test on making a blog using Jekyll.
 
-![dummyimage](http://placehold.it/400x400 "Placeholder")
-
-#Test
-
-##Test
-
-###Test
-
-####Test
+There are no blog posts at the moment. Check my [portfolio](/portfolio).

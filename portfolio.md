@@ -9,7 +9,7 @@ title: Portfolio
 [![UE4 Top Down](/public/images/ue4td.png)<br/>Multiplayer Top-down prototype](/portfolio/ue4td)
 
 ## 2014
-[![placeholder](http://placehold.it/400x200 "Medium example image")<br/>Random stuff]()
+[![TacTicToe](/public/images/tactictoe.png)<br/>TacTicToe](/portfolio/tactictoe)
 
 ## 2013
 [![INF2](/public/images/inf2.png "Another top-down shooter?")<br/>INF2](/portfolio/inf2)
