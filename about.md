@@ -3,14 +3,16 @@ layout: page
 title: About
 ---
 
-## Background
+### Education
+B. Multimedia (Hons) Software Engineering and Games Design, Multimedia University. --2013
 
-## Education
+### Past work
+Check my [portfolio](/portfolio).
 
-## Past work
+### Skills
+C++, C#, Java.
 
-## Skills
-
+OpenGL, LibGDX, Unity3D, Unreal Engine 4, Blender.
 
 {% comment %}
 <p class="message">
